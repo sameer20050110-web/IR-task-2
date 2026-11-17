@@ -1,0 +1,19 @@
+{
+    "dataset_name": "SMS Spam Collection v.1",
+    "source": "UCI Machine Learning Repository / Almeida et al.",
+    "description": "A collection of SMS tagged messages that have been collected for SMS Spam research.",
+    "total_records": 5574,
+    "class_distribution": {
+        "ham": 4827,
+        "spam": 747
+    },
+    "class_percentages": {
+        "ham": 86.6,
+        "spam": 13.4
+    },
+    "columns": [
+        "label",
+        "message"
+    ],
+    "data_path": "D:\\IR task2 sameer\\data\\sms_spam_collection.csv"
+}
